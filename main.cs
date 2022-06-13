@@ -27,8 +27,8 @@ class Program
         Console.WriteLine("");
         while (repeat < number1)
         {
-          answer = answer + number2;
-          repeat++;
+            answer = answer + number2;
+            repeat++;
         }
         Console.WriteLine("The answer is " + answer + ".");
         Console.WriteLine("\nDone.");
