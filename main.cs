@@ -20,7 +20,7 @@ class Program
         Console.WriteLine("");
         Console.Write("\nInput the first number: ");
         number1 = Convert.ToInt32(Console.ReadLine());
-        Console.Write("\nInput the second number: ");
+        Console.Write("Input the second number: ");
         number2 = Convert.ToInt32(Console.ReadLine());
 
         // process
